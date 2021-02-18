@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f209fe2d-ea3a-4582-a468-79668c684a9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UqNoo1pRd0Olz5VwACAotxgiFv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="LogInScreen" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConnectionEstablisher">
+    <configuration name="BackgroundImageJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImageBackground.BackgroundImageJFrame" />
+      <module name="ProiectBDv0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImageBackground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectionEstablisher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConnectionEstablishing.ConnectionEstablisher" />
+      <module name="ProiectBDv0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LogInUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainMVC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainUI.MainMVC" />
+      <module name="ProiectBDv0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MainUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BackgroundImageJFrame" />
+      <item itemvalue="Application.ConnectionEstablisher" />
+      <item itemvalue="Application.MainMVC" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConnectionEstablisher" />
+        <item itemvalue="Application.BackgroundImageJFrame" />
+        <item itemvalue="Application.MainMVC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f209fe2d-ea3a-4582-a468-79668c684a9c" name="Default Changelist" comment="" />
+      <created>1576080342796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576080342796</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576860437602">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1576860437602" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1576318538464">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1576318538464" />
+    <state x="475" y="204" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578998522266">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="475" y="204" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1578998522266" />
+    <state width="1398" height="174" key="GridCell.Tab.0.bottom" timestamp="1584347171007">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="174" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584347171007" />
+    <state width="1398" height="174" key="GridCell.Tab.0.center" timestamp="1584347171000">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="174" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584347171000" />
+    <state width="1398" height="174" key="GridCell.Tab.0.left" timestamp="1584347170998">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="174" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584347170998" />
+    <state width="1398" height="174" key="GridCell.Tab.0.right" timestamp="1584347171002">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="174" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584347171002" />
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom" timestamp="1576865397454">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576865397454" />
+    <state width="1398" height="259" key="GridCell.Tab.1.center" timestamp="1576865397453">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1576865397453" />
+    <state width="1398" height="259" key="GridCell.Tab.1.left" timestamp="1576865397453">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1576865397453" />
+    <state width="1398" height="259" key="GridCell.Tab.1.right" timestamp="1576865397454">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="259" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1576865397454" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1578422030532">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1578422030532" />
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1584347151698">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584347151698" />
+    <state x="378" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578992527623">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1578992527623" />
+    <state x="149" y="72" key="new project wizard" timestamp="1576614757828">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="149" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1576614757828" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1576407156658">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1576407156658" />
+  </component>
+</project>
